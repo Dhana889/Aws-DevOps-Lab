@@ -43,6 +43,7 @@ Elastic Bean Stalk: Elastic Beanstalk is a service for deploying and scaling web
 
 Use Cases: Deploy scalable web applications in minutes without the complexity of provisioning and managing underlying infrastructure.
 
+![image](https://github.com/user-attachments/assets/baf34304-9736-4b0e-847a-1ad038250733)
 
 
 Blue-Green Deployment: 
